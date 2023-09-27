@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A fifth-year software engineering student at the National School of Applied Sciences Oujda.",
   resumeLink:
-    "https://drive.google.com/file/d/1k9F0rYETofDw6_s7r3s67MORmKt3OPm5/view?usp=sharing",
+    "https://drive.google.com/file/d/12TwxnK68aMzlrTFOF6opAJY_nh0llHYV/view?usp=sharing",
   portfolio_repository: "",
   githubProfile: "",
 };
@@ -461,7 +461,7 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "React, Node.js, and Express.js Developer",
+          title: "React and Node.js Developer",
           company: "Seomaniak(internship)",
           company_url: "https://seomaniak.ma/agence-web/",
           logo_path: "seomaniak1.png",

@@ -1,12 +1,13 @@
 {
+  "homepage":"https://yassine-ela.github.io/yassine-ela-portfolio",
   "private": true,
   "name": "yassineElaPortfolio",
   "version": "0.1.0",
-  "homepage": "https://yassine-ela.github.io",
+  
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test"

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd5ee30be4d5d2bdf26a2913921f30e7",
+    "revision": "55557f573e52e2645591c68573f39106",
     "url": "/yassine-ela-portfolio/index.html"
   },
   {
-    "revision": "5cb18019bdcb2b816d43",
+    "revision": "616c81285e8a38ff6e0d",
     "url": "/yassine-ela-portfolio/static/css/main.dea7f1d8.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yassine-ela-portfolio/static/js/2.c11ca33a.chunk.js"
   },
   {
-    "revision": "5cb18019bdcb2b816d43",
-    "url": "/yassine-ela-portfolio/static/js/main.cf39a487.chunk.js"
+    "revision": "616c81285e8a38ff6e0d",
+    "url": "/yassine-ela-portfolio/static/js/main.bcfaa774.chunk.js"
   },
   {
     "revision": "7c5f67c9b44c6c6c79ff",

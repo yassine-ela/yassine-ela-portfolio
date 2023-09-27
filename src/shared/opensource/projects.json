@@ -1,0 +1,280 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Web application for managing Neonatal patients at CHU Oujda",
+      "createdAt": "Feb 2023 - June 2023",
+      "url": "https://github.com/yassine-ela/Digitalisation-du-service-neonatal-chu-oujda",
+      "description": "As part of my PFA, I worked on the digitalization of the medical records of the neonatal department at CHU Oujda using ReactS and Symfony. The goal of this project was to transform the neonatal department into a digital platform, providing improved accessibility and more efficient management of information related to newborns.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "devicon:react-wordmark"
+        },
+        {
+          "name": "Symfony",
+          "iconifyClass": "devicon:symfony-wordmark"
+        },
+        {
+          "name": "MUI",
+          "iconifyClass": "devicon:materialui"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ],
+      "images": [
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "digiNeonat1.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "digiNeonat2.png"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "digiNeonat3.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "digiNeonat22.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "digiNeonat4.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "digiNeonat5.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "digiNeonat6.PNG"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Fashium",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "",
+      "description": "The Fashium project is a multilingual B2B platform designed for makeup artists, providing features to showcase their services and connect with potential clients.Clients can book makeup services through the platform,making booking and appointment scheduling easier.Clients can search for makeup artists based on the city and services offered.The project incorporates a real-time chat feature to facilitate communication between makeup artists and clients.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "devicon:react-wordmark"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Express.js",
+          "iconifyClass": "devicon:express"
+        },
+        {
+          "name": "mongoDB",
+          "iconifyClass": "devicon:mongodb-wordmark"
+        },
+        {
+          "name": "nodejs",
+          "iconifyClass": "logos:nodejs"
+        }
+      ],
+      "images": [
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Fashium1.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Fashium2.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Fashium3.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Fashium4.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Fashium5.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Fashium7.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Fashium8.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Fashium9.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Fashium10.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Fashium11.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Fashium12.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Fashium13.PNG"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "VisitMorocco",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/yassine-ela/visitMorocco2",
+      "description": "Development of  VisitMorocco using Angular and Firebase technologies.This application will allow users to make payment-free reservations for trips to various cities in Morocco.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Angular",
+          "iconifyClass": "devicon:angular"
+        },
+        {
+          "name": "Ionic",
+          "iconifyClass": "logos:ionic"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos:firebase"
+        }
+      ],
+      "images": [
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Visit1.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Visit2.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Visit3.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Visit4.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Visit5.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Visit6.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Visit7.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Visit8.PNG"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "Visit9.PNG"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Management of internship requests at CHU Oujda.",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/yassine-ela/gestionDemandeDeStageCHUOujda",
+      "description": "The project involves the creation of a website using HTML, CSS (with Bootstrap), and PHP to manage internship applications at CHU Oujda. Internship applicants will be able to submit their application by filling out an online form. Once the application is submitted, an administrator will have the option to accept or reject it. The internship applicant will receive a response via email.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Php",
+          "iconifyClass": "logos:php"
+        },
+        {
+          "name": "Mysql",
+          "iconifyClass": "logos:mysql"
+        }
+      ],
+      "images": [
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "chu1.png"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "chu2.png"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "chu3.png"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "chu4.png"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "chu5.png"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "chu6.png"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "chu7.png"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "chu8.png"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "chu9.png"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "chu10.png"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "chu11.png"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "chu12.png"
+        },
+        {
+          "label": "San Francisco – Oakland Bay Bridge, United States",
+          "imgPath": "chu13.png"
+        }
+      ]
+    }
+  ]
+}

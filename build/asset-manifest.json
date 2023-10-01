@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/yassine-ela-portfolio/static/css/main.dea7f1d8.chunk.css",
-    "main.js": "/yassine-ela-portfolio/static/js/main.cf39a487.chunk.js",
-    "main.js.map": "/yassine-ela-portfolio/static/js/main.cf39a487.chunk.js.map",
+    "main.js": "/yassine-ela-portfolio/static/js/main.bcfaa774.chunk.js",
+    "main.js.map": "/yassine-ela-portfolio/static/js/main.bcfaa774.chunk.js.map",
     "runtime-main.js": "/yassine-ela-portfolio/static/js/runtime-main.4a86b7a4.js",
     "runtime-main.js.map": "/yassine-ela-portfolio/static/js/runtime-main.4a86b7a4.js.map",
     "static/js/2.c11ca33a.chunk.js": "/yassine-ela-portfolio/static/js/2.c11ca33a.chunk.js",
     "static/js/2.c11ca33a.chunk.js.map": "/yassine-ela-portfolio/static/js/2.c11ca33a.chunk.js.map",
     "index.html": "/yassine-ela-portfolio/index.html",
-    "precache-manifest.024c2c6ee8ed8d9adead7b2ae6997146.js": "/yassine-ela-portfolio/precache-manifest.024c2c6ee8ed8d9adead7b2ae6997146.js",
+    "precache-manifest.b90a94c82085aa3868f807df5522d389.js": "/yassine-ela-portfolio/precache-manifest.b90a94c82085aa3868f807df5522d389.js",
     "service-worker.js": "/yassine-ela-portfolio/service-worker.js",
     "static/css/main.dea7f1d8.chunk.css.map": "/yassine-ela-portfolio/static/css/main.dea7f1d8.chunk.css.map",
     "static/media/index.css": "/yassine-ela-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -115,6 +115,6 @@
     "static/js/runtime-main.4a86b7a4.js",
     "static/js/2.c11ca33a.chunk.js",
     "static/css/main.dea7f1d8.chunk.css",
-    "static/js/main.cf39a487.chunk.js"
+    "static/js/main.bcfaa774.chunk.js"
   ]
 }

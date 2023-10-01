@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yassine-ela-portfolio/precache-manifest.024c2c6ee8ed8d9adead7b2ae6997146.js"
+  "/yassine-ela-portfolio/precache-manifest.b90a94c82085aa3868f807df5522d389.js"
 );
 
 self.addEventListener('message', (event) => {

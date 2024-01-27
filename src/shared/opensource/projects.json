@@ -5,17 +5,14 @@
       "name": "Web application for managing Neonatal patients at CHU Oujda",
       "createdAt": "Feb 2023 - June 2023",
       "url": "https://github.com/yassine-ela/Digitalisation-du-service-neonatal-chu-oujda",
-      "description": "As part of my PFA, I worked on the digitalization of the medical records of the neonatal department at CHU Oujda using ReactS and Symfony. The goal of this project was to transform the neonatal department into a digital platform, providing improved accessibility and more efficient management of information related to newborns.",
+      "description": "As part of my PFA, I worked on the digitalization of the medical records of the neonatal department at CHU Oujda using ReactS . The goal of this project was to transform the neonatal department into a digital platform, providing improved accessibility and more efficient management of information related to newborns.",
       "isFork": false,
       "languages": [
         {
           "name": "React",
           "iconifyClass": "devicon:react-wordmark"
         },
-        {
-          "name": "Symfony",
-          "iconifyClass": "devicon:symfony-wordmark"
-        },
+        
         {
           "name": "MUI",
           "iconifyClass": "devicon:materialui"
@@ -68,22 +65,12 @@
           "name": "React",
           "iconifyClass": "devicon:react-wordmark"
         },
+       
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Express.js",
-          "iconifyClass": "devicon:express"
-        },
-        {
-          "name": "mongoDB",
-          "iconifyClass": "devicon:mongodb-wordmark"
-        },
-        {
-          "name": "nodejs",
-          "iconifyClass": "logos:nodejs"
+          "name": "Spring Boot",
+          "iconifyClass": "devicon:spring"
         }
+       
       ],
       "images": [
         {

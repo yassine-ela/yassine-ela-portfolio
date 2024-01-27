@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import principal from "../../assests/images/principal.svg";
 import Avatar from "@mui/joy/Avatar";
-import img from "../../assests/images/monImage1.jpeg";
+import img from "../../assests/images/monImage2.jpeg";
 class FeelingProud extends Component {
   render() {
     const theme = this.props.theme;

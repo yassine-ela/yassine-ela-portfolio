@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A fifth-year software engineering student at the National School of Applied Sciences Oujda.",
   resumeLink:
-    "https://drive.google.com/file/d/12TwxnK68aMzlrTFOF6opAJY_nh0llHYV/view?usp=sharing",
+    "https://drive.google.com/file/d/",
   portfolio_repository: "",
   githubProfile: "",
 };
@@ -409,7 +409,7 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "national School of Applied Sciences Oujda",
+      title: "National School of Applied Sciences Oujda",
       subtitle: "Software Engineering",
       logo_path: "ENSAO.png",
       alt_name: "ENSAO",
@@ -461,7 +461,7 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "React and Node.js Developer",
+          title: "Full stack Developer",
           company: "Seomaniak(internship)",
           company_url: "https://seomaniak.ma/agence-web/",
           logo_path: "seomaniak1.png",
@@ -472,14 +472,14 @@ const experience = {
           color: "#0879bf",
         },
         {
-          title: "React Developer",
+          title: "Full stack Developer",
           company: "CHU Mohammed VI Oujda(pfa)",
           company_url: "https://www.linkedin.com/company/muffito-inc/about/",
           logo_path: "chuo.png",
           duration: "Feb 2023 - June 2023",
           location: "Oujda, Morocco",
           description:
-            "As part of my PFA, I worked on the digitalization of the medical records of the neonatal department at CHU Oujda using ReactS and Symfony. The goal of this project was to transform the neonatal department into a digital platform, providing improved accessibility and more efficient management of information related to newborns.",
+            "As part of my PFA, I worked on the digitalization of the medical records of the neonatal department at CHU Oujda . The goal of this project was to transform the neonatal department into a digital platform, providing improved accessibility and more efficient management of information related to newborns.",
           color: "#9b1578",
         },
         {

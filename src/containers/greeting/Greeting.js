@@ -32,7 +32,7 @@ export default function Greeting(props) {
                 {greeting.subTitle}
               </p>
               <SocialMedia theme={theme} />
-
+              {/*
               <div className="resume-btn-div">
                 <Button
                   text="See My Resume"
@@ -40,7 +40,7 @@ export default function Greeting(props) {
                   href={greeting.resumeLink}
                   theme={theme}
                 />
-              </div>
+              </div>   */}
               {/** 
               <div className="portfolio-repo-btn-div">
                 <Button

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/yassine-ela-portfolio/static/css/main.dea7f1d8.chunk.css",
-    "main.js": "/yassine-ela-portfolio/static/js/main.bcfaa774.chunk.js",
-    "main.js.map": "/yassine-ela-portfolio/static/js/main.bcfaa774.chunk.js.map",
+    "main.css": "/yassine-ela-portfolio/static/css/main.cce3c407.chunk.css",
+    "main.js": "/yassine-ela-portfolio/static/js/main.a6c98145.chunk.js",
+    "main.js.map": "/yassine-ela-portfolio/static/js/main.a6c98145.chunk.js.map",
     "runtime-main.js": "/yassine-ela-portfolio/static/js/runtime-main.4a86b7a4.js",
     "runtime-main.js.map": "/yassine-ela-portfolio/static/js/runtime-main.4a86b7a4.js.map",
-    "static/js/2.c11ca33a.chunk.js": "/yassine-ela-portfolio/static/js/2.c11ca33a.chunk.js",
-    "static/js/2.c11ca33a.chunk.js.map": "/yassine-ela-portfolio/static/js/2.c11ca33a.chunk.js.map",
+    "static/js/2.4c4daae7.chunk.js": "/yassine-ela-portfolio/static/js/2.4c4daae7.chunk.js",
+    "static/js/2.4c4daae7.chunk.js.map": "/yassine-ela-portfolio/static/js/2.4c4daae7.chunk.js.map",
     "index.html": "/yassine-ela-portfolio/index.html",
-    "precache-manifest.b90a94c82085aa3868f807df5522d389.js": "/yassine-ela-portfolio/precache-manifest.b90a94c82085aa3868f807df5522d389.js",
+    "precache-manifest.8b4fb9797c87de703947e1bd91503ed8.js": "/yassine-ela-portfolio/precache-manifest.8b4fb9797c87de703947e1bd91503ed8.js",
     "service-worker.js": "/yassine-ela-portfolio/service-worker.js",
-    "static/css/main.dea7f1d8.chunk.css.map": "/yassine-ela-portfolio/static/css/main.dea7f1d8.chunk.css.map",
+    "static/css/main.cce3c407.chunk.css.map": "/yassine-ela-portfolio/static/css/main.cce3c407.chunk.css.map",
     "static/media/index.css": "/yassine-ela-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/ENSAO.png": "/yassine-ela-portfolio/static/media/ENSAO.11e82a67.png",
     "static/media/Fashium1.PNG": "/yassine-ela-portfolio/static/media/Fashium1.603b3576.PNG",
@@ -39,7 +39,7 @@
     "static/media/Visit7.PNG": "/yassine-ela-portfolio/static/media/Visit7.9b9eec30.PNG",
     "static/media/Visit8.PNG": "/yassine-ela-portfolio/static/media/Visit8.ec562194.PNG",
     "static/media/Visit9.PNG": "/yassine-ela-portfolio/static/media/Visit9.41672434.PNG",
-    "static/media/WebDev.svg": "/yassine-ela-portfolio/static/media/WebDev.57dd8cce.svg",
+    "static/media/WebDev.svg": "/yassine-ela-portfolio/static/media/WebDev.ecb9643b.svg",
     "static/media/address_image.svg": "/yassine-ela-portfolio/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/yassine-ela-portfolio/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/yassine-ela-portfolio/static/media/animated_logo.dcd6dee2.svg",
@@ -95,7 +95,7 @@
     "static/media/legato_logo.png": "/yassine-ela-portfolio/static/media/legato_logo.c597fbde.png",
     "static/media/manOnTable.svg": "/yassine-ela-portfolio/static/media/manOnTable.83ac24fb.svg",
     "static/media/monImage1.jpeg": "/yassine-ela-portfolio/static/media/monImage1.f5cde077.jpeg",
-    "static/media/monImage2.jpeg": "/yassine-ela-portfolio/static/media/monImage2.8a603b81.jpeg",
+    "static/media/monImage2.jpeg": "/yassine-ela-portfolio/static/media/monImage2.1a70d65d.jpeg",
     "static/media/muffito_logo.png": "/yassine-ela-portfolio/static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "/yassine-ela-portfolio/static/media/nptel_logo.95a12a2b.png",
     "static/media/portfolio.gif": "/yassine-ela-portfolio/static/media/portfolio.414dfbd9.gif",
@@ -113,8 +113,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4a86b7a4.js",
-    "static/js/2.c11ca33a.chunk.js",
-    "static/css/main.dea7f1d8.chunk.css",
-    "static/js/main.bcfaa774.chunk.js"
+    "static/js/2.4c4daae7.chunk.js",
+    "static/css/main.cce3c407.chunk.css",
+    "static/js/main.a6c98145.chunk.js"
   ]
 }
